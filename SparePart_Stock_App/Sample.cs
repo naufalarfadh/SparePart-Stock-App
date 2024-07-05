@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SparePart_Stock_App
 {
-    public partial class Form1 : Form
+    public partial class Sample : Form
     {
-        public Form1()
+        public Sample()
         {
             InitializeComponent();
         }

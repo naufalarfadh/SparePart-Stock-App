@@ -1,0 +1,10 @@
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\bin\Debug\SparePart_Stock_App.exe.config
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\bin\Debug\SparePart_Stock_App.exe
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\bin\Debug\SparePart_Stock_App.pdb
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\obj\Debug\SparePart_Stock_App.csproj.AssemblyReference.cache
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\obj\Debug\SparePart_Stock_App.Properties.Resources.resources
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\obj\Debug\SparePart_Stock_App.Sample.resources
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\obj\Debug\SparePart_Stock_App.csproj.GenerateResource.cache
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\obj\Debug\SparePart_Stock_App.csproj.CoreCompileInputs.cache
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\obj\Debug\SparePart_Stock_App.exe
+D:\Mitra Teknik Sejahtera\AppProject\SparePart_Stock_App\SparePart_Stock_App\obj\Debug\SparePart_Stock_App.pdb
