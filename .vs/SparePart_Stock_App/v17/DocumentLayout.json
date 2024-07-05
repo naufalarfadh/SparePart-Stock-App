@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Mitra Teknik Sejahtera\\AppProject\\SparePart_Stock_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E427C91A-4EC2-44E9-870B-DDE25DF501F2}|SparePart_Stock_App\\SparePart_Stock_App.csproj|d:\\mitra teknik sejahtera\\appproject\\sparepart_stock_app\\sparepart_stock_app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E427C91A-4EC2-44E9-870B-DDE25DF501F2}|SparePart_Stock_App\\SparePart_Stock_App.csproj|solutionrelative:sparepart_stock_app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E427C91A-4EC2-44E9-870B-DDE25DF501F2}|SparePart_Stock_App\\SparePart_Stock_App.csproj|d:\\mitra teknik sejahtera\\appproject\\sparepart_stock_app\\sparepart_stock_app\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E427C91A-4EC2-44E9-870B-DDE25DF501F2}|SparePart_Stock_App\\SparePart_Stock_App.csproj|solutionrelative:sparepart_stock_app\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Mitra Teknik Sejahtera\\AppProject\\SparePart_Stock_App\\SparePart_Stock_App\\frmLogin.cs",
+              "RelativeDocumentMoniker": "SparePart_Stock_App\\frmLogin.cs",
+              "ToolTip": "D:\\Mitra Teknik Sejahtera\\AppProject\\SparePart_Stock_App\\SparePart_Stock_App\\frmLogin.cs [Design]",
+              "RelativeToolTip": "SparePart_Stock_App\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:43:52.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Sample.cs [Design]",
               "DocumentMoniker": "D:\\Mitra Teknik Sejahtera\\AppProject\\SparePart_Stock_App\\SparePart_Stock_App\\Sample.cs",
               "RelativeDocumentMoniker": "SparePart_Stock_App\\Sample.cs",

@@ -10,24 +10,14 @@ using System.Windows.Forms;
 
 namespace SparePart_Stock_App
 {
-    public partial class Sample : Form
+    public partial class frmLogin : Sample
     {
-        public Sample()
+        public frmLogin()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void kryptonButton1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void gunaTextBox1_Click(object sender, EventArgs e)
+        private void frmLogin_Load(object sender, EventArgs e)
         {
 
         }
